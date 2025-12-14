@@ -1,1 +1,1 @@
-echo "Este es el archivo original"
+echo "Cambios desde la rama B"
